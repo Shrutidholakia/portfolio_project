@@ -1,0 +1,56 @@
+body {
+  background-color: #eeeeee;
+  color: #030303;
+  margin: 5;
+  padding: 0;
+
+}
+
+.header {
+  padding: 15px;
+  margin: 5;
+}
+
+.content {
+  margin:5;
+  color: black;
+  padding: 1px;
+  font-size: 10px;
+}
+
+
+img {
+  width: 200px;
+  margin:5;
+}
+li{
+  display: inline;
+  margin:5;
+}
+h1{
+  text-align: center;
+  margin:5;
+  color: purple;
+}
+.skills{
+  border: 1px solid white;
+  background-color:darkgrey;
+  font-style: bold;
+}
+.nav-list{
+  padding: 10px 40px 10px 10px;
+  font-size: 20px;
+
+}
+
+.bio {
+  text-align: center;
+}
+
+.projects {
+  border:1px solid black;
+  margin: 10px 10px 10px 10px;
+  padding:10px 10px 10px 10px;
+  width:250px;
+  float:left;
+}
